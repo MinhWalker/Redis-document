@@ -20,7 +20,7 @@
 
 - Performance : Allows use of all available performance. Higher performance than active / passive
 
-- High availability (HA) : May be moderately responsive. In failure situation. If one node fails, the remaining nodes will assume the job for the failed node. But the nodes are also doing their own thing so taking more of the failed node's task may overload . Active-passtive better than Active-active for high availability. 
+- High availability (HA) : May be moderately responsive. In failure situation. If one node fails, the remaining nodes will assume the job for the failed node. But the nodes are also doing their own thing so taking more of the failed node's task may overload . Active-passive better than Active-active for high availability. 
 
 - Reliability : Low reliability, although it still meets the availability, it's still better to have an excellent error than the active-passive. 
 
